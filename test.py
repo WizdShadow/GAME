@@ -1,4 +1,3 @@
-#Главный хуестер: Андрей Маслов https://vk.com/andrmaslo
 
 import random
 
